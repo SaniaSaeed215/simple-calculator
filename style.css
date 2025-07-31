@@ -1,0 +1,26 @@
+    body {
+      font-family: Arial, sans-serif;
+      text-align: center;
+      margin-top: 50px;
+    }
+    h2 {
+      color: white;
+    }
+    .calculator {
+      display: inline-block;
+      padding: 20px;
+      border: 2px solid #888484;
+      border-radius: 10px;
+      background-color: rgba(62, 79, 80, 0.514);
+    }
+    input,select,button {
+      padding: 10px;
+      margin: 10px;
+      font-size: 16px;
+    }
+    #result {
+      margin-top: 20px;
+      font-weight: bold;
+      font-size: 18px;
+      color: #fffefe;
+    }
